@@ -99,7 +99,7 @@ export class AppComponent implements OnInit {
 
 # 3. RxJS take* 연산자를 사용하자
 
-RxJS엔 Angular 프로젝트에서 `구독/취소`를 선언적으로 관리할 수 있는 유용한 연산자들이 있다. 
+RxJS엔 Angular 프로젝트에서 `구독/취소`를 선언적으로 관리할 수 있는 유용한 연산자들이 있다.
 그중 하나가 take* 연산자들이다.
 
 * take(n)
@@ -274,7 +274,7 @@ class NgOnDestroyWalker extends Lint.AbstractWalker {
 이런 식의 lint 정의도 가능하단 것을 오늘 배웠다. 잘만 응용한다면 강력한 lint를 구현할 수 있을지도...
 
 # 결론
- 
+
 subscribe는 생각보다 조심히 다루어야 될 녀석인 것 같다.
 예제 코드를 보면 너무도 쉽게 간과될 수 있는 것 처럼 보인다.
 5번 방법이 거진 엑스칼리버다. 걍 5번만 기억해도 될듯.
