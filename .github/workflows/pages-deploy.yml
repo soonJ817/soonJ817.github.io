@@ -39,7 +39,7 @@ jobs:
 
       - name: Test Site
         run: |
-          # bash tools/test.sh # 원인 모를 에러로 주석처리...
+          bash tools/test.sh # 원인 모를 에러로 주석처리...
 
       - name: Deploy
         run: |
