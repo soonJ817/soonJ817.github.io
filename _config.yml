@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
   성공한 삶보단 행복한 삶을 살고 싶은 개발자의 블로그입니다.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://soonj817.github.io/"
+url: "https://soonj817.github.io"
 
 github:
   username: soonJ817 # change to your github username
